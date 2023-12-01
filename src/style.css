@@ -1,0 +1,20 @@
+.inputstyle{
+    width: 50%;
+    margin: auto;
+}
+.inputstyle .radio-input{
+    display: flex;
+    justify-content: space-between;
+}
+.inputstyle .radio-input span,  .inputstyle .radio-input input{
+    font-size: 20px;
+}
+
+.inputstyle .checkbox-input{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputstyle .checkbox-input span,  .inputstyle .checkbox-input input{
+    font-size: 20px;
+}
